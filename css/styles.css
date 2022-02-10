@@ -1,0 +1,190 @@
+    /* Colors */
+    /* Home Page - main section */
+    
+    body {
+        font-family: 'Poppins', sans-serif;
+        color: #333333;
+    }
+    
+    footer {
+        padding-top: 30px;
+        background-image: linear-gradient(white, #f5df4e);
+    }
+    
+    p {
+        color: #7d7789;
+    }
+    
+    h1 {
+        text-shadow: 29px 11px 60px rgb(0 0 0 / 70%);
+        font-size: 50px;
+    }
+    
+    .jumbotron {
+        margin: 0;
+        padding: 20px;
+        background-image: linear-gradient( #f5df4e, white);
+        justify-content: end;
+    }
+    
+    .contactme {
+        color: #333333;
+        font-weight: 800;
+    }
+    
+    #nicopic {
+        box-shadow: 13px 13px 10px 0px rgba(189, 179, 179, 0.4)
+    }
+    
+    .maincontainer {
+        background-color: #fbfbfb;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    
+    .maincontainer h1 {
+        font-weight: 700;
+    }
+    
+    #getintouch {
+        margin-left: -13px;
+        background-color: #212529;
+        color: white;
+    }
+    
+    #getintouch:hover {
+        background-color: #f5df4e;
+        color: #212529;
+    }
+    
+    #learnmore {
+        background-color: #212529;
+        color: white;
+    }
+    
+    .row-content {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    
+    .navbar-nav>li>a:hover {
+        background-color: #f5df4e;
+    }
+    /* About Page  */
+    
+    .row-content-aboutme {
+        padding-left: 30px;
+    }
+    
+    .line {
+        border-left: 1px ridge #f5df4e;
+    }
+    
+    #about {
+        padding-left: 50px;
+        text-shadow: 29px 11px 60px rgb(0 0 0 / 70%);
+        font-weight: 900;
+    }
+    
+    .job {
+        border-top: 1px solid #7d7789;
+        padding: 5px;
+    }
+    
+    .education {
+        border-top: 1px solid #7d7789;
+        padding: 5px;
+    }
+    
+    #download {
+        background-color: #212529;
+        color: white;
+    }
+    
+    #download:hover {
+        background-color: #f5df4e;
+        color: #212529;
+    }
+    
+    .maincontainer .aboutme p {
+        text-align: justify;
+    }
+    
+    .spacer {
+        padding: 40px;
+    }
+    
+    .contentaboutme {
+        font-weight: 800;
+    }
+    
+    .serviceslist,
+    .interestslist,
+    .skillslist {
+        color: #7d7789;
+        padding-left: 100px;
+    }
+    
+    .rightcol {
+        padding-top: 40px;
+    }
+    
+    li {
+        padding-top: 5px;
+    }
+    /* Projects Page*/
+    
+    .card {
+        gap: 5px;
+        text-align: center;
+        padding: 0;
+    }
+    
+    .gap {
+        padding: 10px;
+    }
+    
+    .card-img-top {
+        height: 100px;
+        width: 100px;
+    }
+    
+    .imgposition {
+        padding: 10px;
+    }
+    
+    .card-body {
+        background-color: white;
+        padding: 5px;
+    }
+    
+    #learnmore {
+        background-color: #212529;
+        color: white;
+    }
+    
+    #learnmore:hover {
+        background-color: #f5df4e;
+        color: #212529;
+    }
+    
+    #works {
+        text-shadow: 29px 11px 60px rgb(0 0 0 / 70%);
+        font-weight: 900;
+    }
+    /* Contact Page*/
+    
+    .contactbutton {
+        background-color: #212529;
+        color: white;
+    }
+    
+    .contactbutton:hover {
+        background-color: #f5df4e;
+        color: #212529;
+    }
+    
+    #contact {
+        text-shadow: 29px 11px 60px rgb(0 0 0 / 70%);
+        font-weight: 900;
+    }
